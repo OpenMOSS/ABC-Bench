@@ -11,9 +11,9 @@
 ---
 
 ## 📰 News
-- **2024/01/19**: Public preprint released: *ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development*.
+- **2026/01/19**: Public preprint released: *ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development*.
 - **2026/01/19**: Blog post released, detailing benchmark construction and baseline results.  
-- **2025/01/20**: Evaluation harness and the full ABC-Bench dataset released on Hugging Face.  
+- **2026/01/20**: Evaluation harness and the full ABC-Bench dataset released on Hugging Face.  
 
 <p align="center">
   <img src="figs/main-results.png" width="90%" alt="ABC-Bench main results" />
